@@ -1,0 +1,8 @@
+{
+  "name": "Portale IRC – Daniele Gusso",
+  "description": "Piattaforma didattica interattiva per l'Insegnamento della Religione Cattolica nella Scuola Secondaria di Primo Grado, con risorse, linea del tempo, quiz, glossario, modalità LIM e area docente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
